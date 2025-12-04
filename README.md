@@ -1,3 +1,8 @@
+
+Внешний вид лоадера:
+<img width="878" height="564" alt="image" src="https://github.com/user-attachments/assets/1b72253b-12ae-416a-8a0e-a4158968044d" />
+
+
 Instructions:
 1) Download any of the archives
 2) Extract to a convenient location
@@ -11,3 +16,4 @@ Instructions:
 3) Запустить SpaceLoader.exe
 4) Нажать "Запустить обход"
 5) после успешного запуска вы можете запускать роблокс
+
