@@ -1,8 +1,10 @@
 
 Внешний вид лоадера:
+
 <img width="1087" height="715" alt="image" src="https://github.com/user-attachments/assets/163c41f0-24dd-4f4b-a8fc-431a9dff03f9" />
 
 Настройки:
+
 <img width="581" height="481" alt="image" src="https://github.com/user-attachments/assets/70fdf4f6-95fe-4a52-9519-99822464f5fe" />
 
 
